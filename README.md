@@ -1,6 +1,6 @@
 ## Exploring the teaching role for Web Development at ReDi School, Düsseldorf!
 
-From 2008 to 2019, I embarked on a fascinating journey as a lecturer in Applied Physics and Applied Mathematics across diverse academic levels in India. In addition to my teaching endeavors, I had the privilege of sharing the wonders of amateur astronomy as a demonstrator at ![](https://www.iucaa.in/en/).
+From 2008 to 2019, I embarked on a fascinating journey as a lecturer in Applied Physics and Applied Mathematics across diverse academic levels in India. In addition to my teaching endeavors, I had the privilege of sharing the wonders of amateur astronomy as a demonstrator at ![IUCAA](https://www.iucaa.in/en/).
 
 **Me explaining the geophysical structure of Astroid at IUCAA in 2002**
 
